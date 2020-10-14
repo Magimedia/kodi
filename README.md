@@ -1,0 +1,2 @@
+# kodi
+Magimedia Kodi Repository
